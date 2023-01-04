@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ayomidefln
+- 👋 Hi, I’m Edward
 - 👀 I’m interested in learning as much as possible
 - 🌱 I’m currently learning Java, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 You can reach me on Instagram @eddie__inside
+- 📫 You can reach me on Instagram @eddie__inside, on Twitter @Eddie_Inside
 
 <!---
 Ayomidefln/Ayomidefln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
